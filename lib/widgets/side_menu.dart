@@ -68,7 +68,7 @@ class SideMenu extends StatelessWidget {
                 ),
                 const SizedBox(height: 15),
                 _buildContactInfo(Icons.email, 'nahidajannat28@gmail.com'),
-                _buildContactInfo(Icons.phone, '+880 1971521040'),
+                _buildContactInfo(Icons.phone, '+880 1971111111'),
                 _buildContactInfo(Icons.location_on, 'Dhaka, Bangladesh'),
                 const SizedBox(height: 20),
                 Text(

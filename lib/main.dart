@@ -16,15 +16,16 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.purple,
-        primaryColor: Colors.purple[800],
+        primaryColor: const Color(0xFF8A2BE2),
         colorScheme: ColorScheme.fromSwatch(
           primarySwatch: Colors.purple,
-          accentColor: Colors.purpleAccent,
+          accentColor: const Color(0xFFDA70D6),
+          backgroundColor: const Color(0xFF0A0618),
         ),
         fontFamily: GoogleFonts.poppins().fontFamily,
         useMaterial3: true,
-        appBarTheme: AppBarTheme(
-          backgroundColor: Colors.purple[900],
+        appBarTheme: const AppBarTheme(
+          backgroundColor: Color(0xFF1A0B2E),
           foregroundColor: Colors.white,
           elevation: 0,
           centerTitle: false,

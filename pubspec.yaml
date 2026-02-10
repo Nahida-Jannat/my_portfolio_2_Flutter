@@ -12,6 +12,7 @@ dependencies:
   google_fonts: ^6.3.3
   url_launcher: ^6.3.2
   flutter_animate: ^4.5.2
+  shimmer: ^3.0.0
 
 dev_dependencies:
   flutter_test:
@@ -21,4 +22,4 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/
+    - assets/images/profile1.png
