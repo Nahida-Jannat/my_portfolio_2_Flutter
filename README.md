@@ -10,11 +10,11 @@ https://img.shields.io/badge/License-MIT-blue
 ### Mobile View
 | Home                                                       | About | Skills |
 |------------------------------------------------------------|-------|--------|
-| <img src="assets/screenshots/home_mobile.png" width="200"> | <img src="assets/screenshots/about_mobile.png" width="200"> | <img src="assets/screenshots/skills_mobile.png.png" width="200"> |
+| <img src="assets/screenshots/home_mobile.png" width="200"> | <img src="assets/screenshots/about_mobile.png" width="200"> | <img src="assets/screenshots/skills_mobile.png" width="200"> |
 
 | Experience                                                 | Education | Contact |
 |------------------------------------------------------------|-----------|---------|
-| <img src="assets/screenshots/work_mobile.png.png" width="200"> | <img src="assets/screenshots/edu_mobile.png" width="200"> | <img src="assets/screenshots/contact_mobile.png" width="200"> |
+| <img src="assets/screenshots/work_mobile.png" width="200"> | <img src="assets/screenshots/edu_mobile.png" width="200"> | <img src="assets/screenshots/contact_mobile.png" width="200"> |
 
 
 | Achievements                                               | Side Menu                                                | Footer                                                        |
