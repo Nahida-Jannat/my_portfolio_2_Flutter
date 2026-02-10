@@ -1,21 +1,24 @@
 # Nahida Jannat - Flutter Portfolio App
 
 A beautiful, responsive portfolio application built with Flutter showcasing my skills, experience, and projects as a mobile developer.
+https://img.shields.io/badge/Flutter-3.13+-02569B?logo=flutter&logoColor=white
+https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart&logoColor=white
+https://img.shields.io/badge/License-MIT-blue
 
 ## 📱 Screenshots
 
 ### Mobile View
 | Home                                                       | About | Skills |
 |------------------------------------------------------------|-------|--------|
-| <img src="assets/screenshots/home_mobile.png" width="200"> | <img src="assets/screenshots/about_mobile.png" width="200"> | <img src="assets/screenshots/skills_mobile.png" width="200"> |
+| <img src="assets/screenshots/home_mobile.png" width="200"> | <img src="assets/screenshots/about_mobile.png" width="200"> | <img src="assets/screenshots/skills_mobile.png.png" width="200"> |
 
 | Experience                                                 | Education | Contact |
 |------------------------------------------------------------|-----------|---------|
-| <img src="assets/screenshots/work_mobile.png" width="200"> | <img src="assets/screenshots/edu_mobile.png" width="200"> | <img src="assets/screenshots/contact_mobile.png" width="200"> |
+| <img src="assets/screenshots/work_mobile.png.png" width="200"> | <img src="assets/screenshots/edu_mobile.png" width="200"> | <img src="assets/screenshots/contact_mobile.png" width="200"> |
 
 
-| Achievements                                               | Side Menu                                                 | Footer                                                        |
-|------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------|
+| Achievements                                               | Side Menu                                                | Footer                                                        |
+|------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------|
 | <img src="assets/screenshots/achievements_mobile.png" width="200"> | <img src="assets/screenshots/sidemenu_mobile.png" width="200"> | <img src="assets/screenshots/footer_mobile.png" width="200"> |
 
 ### Desktop View
